@@ -1,1 +1,1 @@
-This is Ruhnaz Pathan fresher php laravel developer 
+This is Ruhnaz Pathan php laravel developer 
